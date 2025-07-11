@@ -17,3 +17,8 @@ Tools & Libraries Used:
 Objective:
 To develop a weather data visualization dashboard that helps analyze temperature, humidity, and wind speed trends over time.
 
+*OUTPUT*
+<img width="1410" height="697" alt="Image" src="https://github.com/user-attachments/assets/d5c886d1-0e9c-4724-bf7b-4092cc7e16f7" />
+
+<img width="1365" height="679" alt="Image" src="https://github.com/user-attachments/assets/517823b5-626e-48e8-945a-1a83d3ccd3b6" />
+
